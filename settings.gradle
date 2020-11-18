@@ -1,0 +1,2 @@
+include ':app', ':spotify-app-remote-release-0.7.1'
+rootProject.name='MusicApp'

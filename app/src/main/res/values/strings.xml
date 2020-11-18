@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="app_version_number">1.0</string>
+    <string name="menu_settings">Settings</string>
+    <string name="cd_repeat">Repeat one or all</string>
+    <string name="cd_previous">Skip backwards</string>
+    <string name="cd_play">Play and pause</string>
+    <string name="cd_next">Skip forwards</string>
+    <string name="navigation_drawer_open">opened</string>
+    <string name="navigation_drawer_close">closed</string>
+    <string name="bannerad_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstial_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>

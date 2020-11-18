@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#191b1e</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background_color">#191b1e</color>
+    <color name="phocia">#fe019c</color>
+    <!-- A transparent black -->
+    <color name="transparent_black">#aa000000</color>
+    <!-- selected tab text -->
+    <color name="selected_tabtext">#bb000000</color>
+    <!-- non selected tab text -->
+    <color name="unselected_tabtext">#77000000</color>
+    <color name="shuffle_grey">#ffdedede</color>
+    <color name="background_grey">#ffdedede</color>
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+    <!-- Black -->
+    <color name="black">#ff000000</color>
+    <!-- White -->
+    <color name="white">#ffffffff</color>
+    <color name="ewhite">#eeeeee</color>
+    <color name="green_for_botoom_bar">#008800</color>
+    <color name="red">#FF0000</color>
+
+    <color name="shopFabRipple">#64faadc9</color>
+
+    <color name="web_btn">#FF5722</color>
+    <color name="card_color">#fa874f</color>
+    <color name="graylight">#d4d4d4</color>
+    <color name="dialog_lang_color">#FFF7E7</color>
+
+
+    <color name="colorPrimary1">#2E077F</color>
+    <color name="colorPrimary2">#FC00C8</color>
+    <color name="gray">#FF5C5F67</color>
+    <color name="text_darker">#FF2F2F32</color>
+    <color name="background">#FFF0F1F7</color>
+
+    <color name="blueish">@color/colorPrimary1</color>
+    <color name="greenish">@color/colorPrimary2</color>
+
+    <color name="main_screen_cardview">#2E37AB</color>
+    <color name="color_btn_contact_us">#291277</color>
+    <color name="blue">#0091EA</color>
+    <color name="darkblue">#2B1173</color>
+
+</resources>
